@@ -1,0 +1,50 @@
+1)	Quelle est la différence entre javascript et HTML et CSS ? 
+la différence entre javascript et le langage html c'est que js est un langage côté client c'est un langage de programmation or html et c'est un langage déclaratif
+
+2)	Ce nom de variable 4roues est-il valable en Javascript ?
+non ceci n'est pas valable  car le chiffre 4 doit etre placé derrière en javascript
+
+3)	Comment sortir d'une boucle for() ou while() ?
+a.	Break ;
+b.	Exit ;
+c.	Continue ;
+d.	End ; 
+Une boucle for peut être interrompue en utilisant l’instruction break le mot clé iteration sert à passer à l'iteration suivante
+la reponse est a 
+
+4)	
+Comment accéder au premier élément d'un tableau Tab ? 
+a.	Tab[0]
+b.	Tab[2]
+c.	Tab[1]
+d.	Tab[i]
+
+on accède au premier element avec la reponse a Tab[0]
+
+
+5)	
+Comment ajouter du code JavaScript dans une page HTML?
+a.	<script src="text/javascript"> </script>
+b.	<script type="text/javascript"> </script>
+c.	<script src="javascript"> </script>
+d.	<script type="javascript"> </script>
+
+on ajout du code html dans une page javascript avec la reponse C
+
+6)	Quelle est la différence entre while et do while ? 
+
+Do while teste après la boucle or le while teste avant la condition.
+la boucle :While créé une boucle infinie car la condition est toujours vraie donc on boucle et reboucle jusqu'a ce que la condition soit atteinte pour pouvoir à la fin sortir de la boucle 
+la boucle :  do while exécute le bloc de code au moins une fois et vérifie ensuite la condition
+
+
+
+7)	Quand est ce qu’il faut utiliser la boucle while plutôt que la boucle for ? 
+
+on utilise la boucle for lorsque l'on connait la condition 
+par exemple for (i=1; i<3; i++)  
+on connait la condition i<3
+on utilise la boucle while :quand il execute en boucle la serie d'informations à l'interieur du programme 
+La boucle while  permet de répéter des instructions comme la boucle for. Non pas à partir d'un intervalle, mais à partir d'une condition comme l'instruction if. 
+le programme va verifier si l'instruction est vraie si elle est fausse elle continue le programme,des que l'on a atteint l'instruction du programme on sort de la boucle.
+while veut dire tant que on va tendance donc à l'utiliser pas lorsqu'il y a une intervalle mais une à partir d'une condition.
